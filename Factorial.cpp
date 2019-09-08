@@ -10,6 +10,7 @@ int main()
 		i++;
 	}
 	printf("\n%d! = %d", n, a);
+	printf("End\n");
 	
 	return 0;
 }
